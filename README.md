@@ -1,4 +1,4 @@
-# Hey there! 👋 I’m Andrii Klymiuk
+# Hey there! 👋
 
 I’m a Full Stack Developer who loves building tools to make coding smoother—like my [Corgi CLI](#notable-projects) and [Golden Retriever](#notable-projects) VSCode extension. I work with React Native, Node.js, Go, and more to create efficient, creative solutions.
 
