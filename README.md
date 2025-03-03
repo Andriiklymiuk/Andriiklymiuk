@@ -19,7 +19,6 @@ A VSCode extension that brings API collection management into your editor—like
 
 - **Git-Synced Collections**: Store and version API collections in a `/collections` folder.
 - **Request Power**: Supports REST and GraphQL, with query builders, headers, and test scripts.
-- **GraphQL Magic**: Dedicated editor for queries and variables—e.g., `query GetUser($id: ID!) { user(id: $id) { name } }`.
 - **Env Support**: Use `.env` files with `{{VARIABLE_NAME}}` syntax for dynamic requests.
 - **Try It**: Check out this [example repo](https://github.com/Andriiklymiuk/golden-example) to see it in action!
 
