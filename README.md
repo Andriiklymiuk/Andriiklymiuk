@@ -6,7 +6,7 @@ I’m a Full Stack Developer who loves building tools to make coding smoother—
 
 ## Notable Projects
 
-### [Corgi CLI](https://github.com/Andriiklymiuk/corgi) | [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=andriiklymiuk.corgi)
+### [Corgi CLI](https://github.com/Andriiklymiuk/corgi) | [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=andriiklymiuk.corgi-checker)
 
 A Go-based CLI to turbocharge local development.
 
