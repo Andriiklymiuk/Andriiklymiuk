@@ -13,7 +13,7 @@ A Go-based CLI to turbocharge local development.
 - Supports 28+ databases right out of the box.
 - Lightweight Docker Compose alternative with a VSCode extension.
 
-### [Golden Retriever](https://marketplace.visualstudio.com/items?itemName=andriiklymiuk.golden-retriever)
+### [Golden Retriever Extension](https://marketplace.visualstudio.com/items?itemName=andriiklymiuk.golden-retriever)
 
 A VSCode extension that brings API collection management into your editor—like Postman, but with Git sync.
 
