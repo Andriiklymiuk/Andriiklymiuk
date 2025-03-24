@@ -3,6 +3,8 @@
 I’m a Full Stack Developer who loves building tools to make coding smoother—like my [Corgi CLI](#notable-projects) and [Golden Retriever](#notable-projects) VSCode extension. I work with React Native, Node.js, Go, and more to create efficient, creative solutions.
 
 - 🐙 Explore my work: [github.com/Andriiklymiuk](https://github.com/Andriiklymiuk)
+- ✍️ My small blog: [https://dev.to/andriiklymiuk](https://dev.to/andriiklymiuk)
+
 
 ## Notable Projects
 
